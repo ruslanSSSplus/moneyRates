@@ -1,0 +1,38 @@
+.btn {
+    background-color: #3498DB;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    margin: 10px;
+  }
+  
+.valute{
+    padding: 5px;
+    margin: 10px 0 0 10px;
+    border-radius: 10px;
+    border: solid 1px blue;
+    background-color: white;
+    cursor: pointer;
+}
+.data{
+  
+    -webkit-box-shadow: 0px 0px 18px 11px rgba(34, 60, 80, 0.2);
+    -moz-box-shadow: 0px 0px 18px 11px rgba(34, 60, 80, 0.2);
+    box-shadow: 0px 0px 18px 11px rgba(34, 60, 80, 0.2);
+    margin: 10px 0 10px 0;
+    padding: 10px;
+}
+.SelectedValute{
+    padding: 5px;
+    margin: 10px 0 0 10px;
+    border-radius: 10px;
+    border: solid 1px blue;
+    background-color: oldlace;
+    cursor: pointer;
+}
+.name{
+    font-weight: bold;
+    margin-bottom: 5px;
+}
