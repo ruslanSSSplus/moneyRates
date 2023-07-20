@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/moneyRates/static/css/main.309629c6.css",
+    "main.js": "/moneyRates/static/js/main.3f05961c.js",
+    "static/js/787.28cb0dcd.chunk.js": "/moneyRates/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/moneyRates/index.html",
+    "main.309629c6.css.map": "/moneyRates/static/css/main.309629c6.css.map",
+    "main.3f05961c.js.map": "/moneyRates/static/js/main.3f05961c.js.map",
+    "787.28cb0dcd.chunk.js.map": "/moneyRates/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.309629c6.css",
+    "static/js/main.3f05961c.js"
+  ]
+}
